@@ -15,6 +15,10 @@ h1{
 .container{
   padding-top: 20px;
 }
+
+.carousel-caption{
+  font-size: 1em;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
