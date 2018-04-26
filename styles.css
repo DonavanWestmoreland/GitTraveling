@@ -1,5 +1,20 @@
 body{background-color: lightgrey;}
 
+.form-group{
+  padding-top: 20px;
+}
+
+.row{
+  padding-top: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+.container{
+  padding-top: 20px;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
