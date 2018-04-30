@@ -67,6 +67,9 @@ h1{
   }
 }
 @media screen and (max-width: 600px) {
+  .container{
+    display: none;
+  }
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
